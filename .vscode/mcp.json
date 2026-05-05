@@ -1,8 +1,9 @@
 {
+  "inputs": [],
   "servers": {
     "figma": {
-      "command": "npx",
-      "args": ["-y", "mcp-figma-toolkit@1.0.17"]
-    },
+      "url": "https://mcp.figma.com/mcp",
+      "type": "http"
+    }
   }
 }
